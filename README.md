@@ -1,2 +1,2 @@
 # Resume
-<embed src = 'Nisarg%20Resume.pdf' type="application/pdf">
+<embed src = 'https://github.com/nisarg0/Resume/files/6896040/Nisarg.Resume.pdf' type="application/pdf">
