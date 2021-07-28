@@ -1,2 +1,2 @@
 # Resume
-[embed]https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf[/embed]
+[embed]https://drive.google.com/file/d/1Y5kv-bEzOsW2ndBzOSN1_SvM-1RCnEeL/view?usp=sharing[/embed]
